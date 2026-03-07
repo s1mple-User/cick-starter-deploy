@@ -1,0 +1,7 @@
+export {AuthPage} from "./AuthPage/auth-page"
+export {DashboadPage} from "./DashboardPage/dashboard-page"
+export {HomePage} from "./HomePage/home-page"
+export {ProjectDetail} from "./ProjectDetailPage/project-detail-page"
+export {ProjectPage} from "./ProjectPage/project-page"
+export {SendMoneyPage} from "./SendMoneyPage/send-money-page"
+export {ChatPage} from "./ChatPage/chat-page"
